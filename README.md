@@ -1,5 +1,5 @@
 # DSList
- Projeto de estudo em Spring Boot.
+ Projeto de estudo em Spring Boot feito com as aulas da Academia Devsuperior.
 
  # Modelo de domínio DSList
 ![image](https://github.com/LuisFNascimento/dslist/assets/105133507/c76e87df-7e18-4c2d-90fa-407066687dd9)
